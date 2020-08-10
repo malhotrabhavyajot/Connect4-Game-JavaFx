@@ -1,2 +1,2 @@
 # Connect4-Game-JavaFx
-Connect4-Game using Java and JavaFX
+Connect4-Game using Java and JavaFX.
